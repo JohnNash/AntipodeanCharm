@@ -1,2 +1,2 @@
-# AntipodeanCharm.github.io
+# AntipodeanCharm
 Hosting my writings
